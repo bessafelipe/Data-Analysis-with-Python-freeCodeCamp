@@ -1,4 +1,4 @@
-# Projetos do curso freeCodeCamp
+# Projetos do curso freeCodeCamp - Data Analysis
 
 Projetos realizados para a obtenção do certificado do curso <a href="https://www.freecodecamp.org/certification/felipebessa/data-analysis-with-python-v7">"Data Analysis with Python"</a>
 ##
